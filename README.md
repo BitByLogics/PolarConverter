@@ -9,7 +9,7 @@ PolarConverter is a Java command-line tool for converting vanilla Minecraft worl
 - Converts Minecraft worlds from Anvil to Polar format.
 - Supports optional chunk radius conversion for partial worlds.
 - Validates world version against the Minestom server version before converting.
-- Minimal dependencies: Minestom, Polar, and Adventure NBT.
+- Minimal dependencies: Minestom, Polar.
 
 ---
 
