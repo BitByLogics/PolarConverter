@@ -80,7 +80,7 @@ java -jar PolarConverter.jar --world "MyMinecraftWorld" --output "MyPolarWorld" 
 ## Dependencies
 
 - [Minestom](https://github.com/Minestom/Minestom) – Minecraft server library
-- [Polar](https://github.com/HollowCube/Polar) – Polar world format support
+- [Polar](https://github.com/Hollow-Cube/Polar) – Polar world format support
 
 ---
 
